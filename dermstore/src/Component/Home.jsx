@@ -1,13 +1,9 @@
-// import Navbar  from "./Navbar";
-import Header from './Header';
-
+// import Header  from "./Header";
 
 export default function Home(){
     return(
-        <div>
-            
-            <Header />
-            
-        </div>
-    )
-}
+        <>
+            <h1>Home</h1>
+        </>
+    );
+    }
